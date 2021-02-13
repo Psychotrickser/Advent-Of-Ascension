@@ -1,6 +1,8 @@
-Goblins are generally considered a pest by most landowners and explorers, and are generally mostly well known for their destructive, provocative tendencies.
-While technically a humanoid, Goblins are entirely unrelated to the human species, and evolved separately. Regardless of this, they have evolved some sort of primitive intellect, and are able to communicate with each other.
-They are also able to interact with a basic form of magic, which they primarily use to shoot high-energy projectiles at whomever or whatever they see fit.
+Goblins werden im Allgemeinen von den meisten Landbesitzern und Entdeckern als Plage angesehen. Sie sind am ehesten für ihre destruktiven und provokativen Tendenzen bekannt.
 
-They aren't considered aggressive, however their constant pestering and tendency to fire projectiles at nearby creatures has caused them to be treated as if they are aggressive.
-Deal with them with caution, as goblins like to work together, and can easily overwhelm if in groups.
+Obwohl technisch gesehen humanoid, sind Goblins nicht mit Menschen verwandt und haben sich unabhängig von ihnen entwickelt. Davon abgesehen haben sie eine Art primitiven Intellekts entwickelt und sind imstande, miteinander zu kommunizieren.
+Zusätzlich können sie mit einer sehr grundlegenden Form der Magie umgehen, die sie primär dazu nutzen, hochenergetische Projektile auf Ziele zu verschießen.
+
+Sie gelten eigentlich nicht als aggressiv, werden aber aufgrund ihrer permanenten Belästigung und ihrer Tendenz, Projektile auf nahegelegene Kreaturen abzufeuern, wie aggressive Kreaturen behandelt.
+
+Goblins ist mit Vorsicht zu begegnen, da sie dazu neigen, zusammenzuarbeiten und als Gruppe ihre Ziele zu überwältigen.
